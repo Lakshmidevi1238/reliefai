@@ -24,7 +24,7 @@ langgraph==0.3.21
 langsmith==0.3.14
 
 # Vector DB
-faiss-cpu==1.10.0
+faiss-cpu==1.13.2
 numpy==2.2.4
 
 # Utilities
